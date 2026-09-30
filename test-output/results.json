@@ -1,0 +1,202 @@
+[
+    {
+        "task_id": "fk-01",
+        "question": "What is engineering?",
+        "answer": "Engineering is the application of scientific and mathematical knowledge to design, build, and maintain systems, structures, and products that solve real-world problems and improve people's lives."
+    },
+    {
+        "task_id": "fk-02",
+        "question": "How does a fulcrum work?",
+        "answer": "A fulcrum is a pivot point that allows a lever to pivot around it, changing the direction of force applied to it, and is typically used to amplify or change the direction of a force."
+    },
+    {
+        "task_id": "fk-03",
+        "question": "What is a computer?",
+        "answer": "A computer is an electronic device that can store, process, and communicate information through a series of electronic instructions, known as a program, using a combination of hardware and software components."
+    },
+    {
+        "task_id": "fk-04",
+        "question": "How do the muscles in our bodies work?",
+        "answer": "Muscles in the human body work by contracting and relaxing to produce movement, maintain posture, and regulate body temperature, with the contraction of muscle fibers being controlled by the nervous system through electrical and chemical signals."
+    },
+    {
+        "task_id": "fk-05",
+        "question": "What is the difference between a static and a dynamic load?",
+        "answer": "A static load is a fixed amount of memory or resources allocated at startup, whereas a dynamic load is a variable amount of memory or resources allocated as needed, typically by a program or application."
+    },
+    {
+        "task_id": "mr-01",
+        "question": "A farmer counts a total of 30 heads and 100 legs in a field. The field only contains chickens (2 legs) and pigs (4 legs). How many chickens and how many pigs are in the field?",
+        "answer": "Let's use a system of linear equations to solve this problem: let x be the number of chickens and y be the number of pigs, then 2x + 4y = 100 (legs) and x + y = 30 (heads), solving these equations yields x = 10 and y = 20."
+    },
+    {
+        "task_id": "mr-02",
+        "question": "What percentage of 134 is 32?",
+        "answer": "To find the percentage, divide 32 by 134 and multiply by 100: (32 \u00f7 134) \u00d7 100 = 23.87%."
+    },
+    {
+        "task_id": "mr-03",
+        "question": "Find the derivative of f(x) = 3x^2 + 5x - 4.",
+        "answer": "The derivative of f(x) = 3x^2 + 5x - 4 is f'(x) = 6x + 5."
+    },
+    {
+        "task_id": "mr-04",
+        "question": "Alex, Ben, and Cody are in a room. One always lies, and the other two always tell the truth. Alex says: 'Ben is the liar.' Ben says: 'Cody is the liar.' Who is the liar?",
+        "answer": "If Alex is the liar, then Ben is telling the truth, and Ben's statement that Cody is the liar is true, but this would mean Cody is the liar, which contradicts Alex's statement, so Alex must be the liar, making Ben the truth-teller, and Cody the truth-teller."
+    },
+    {
+        "task_id": "mr-05",
+        "question": "A local council has 5 members. They need to choose a President, a Vice President, and a Secretary from these 5 members. No person can hold more than one position. How many different ways can these 3 roles be filled?",
+        "answer": "The council can choose the President in 5 ways, the Vice President in 4 ways, and the Secretary in 3 ways, resulting in a total of 5 \u00d7 4 \u00d7 3 = 60 different ways to fill the 3 roles."
+    },
+    {
+        "task_id": "sc-01",
+        "question": "Classify the sentiment of this review of a hair product: 'This product produced great results! I will buy this again soon.'",
+        "answer": "The sentiment of this review is overwhelmingly positive, with a strong enthusiasm and intention to repurchase."
+    },
+    {
+        "task_id": "sc-02",
+        "question": "Identify the emotion behind this text: 'This is the worst day of my life!'",
+        "answer": "The emotion behind this text is extreme anxiety and distress, specifically, despair and hopelessness."
+    },
+    {
+        "task_id": "sc-03",
+        "question": "Analyze the sentiment behind this review for a gadget: 'The product is great in my opinion. However, there are features that I liked that were removed. I hope they bring them back soon.'",
+        "answer": "The sentiment behind this review is generally positive, but with a hint of disappointment and frustration due to the removal of features that the reviewer enjoyed."
+    },
+    {
+        "task_id": "sc-04",
+        "question": "Identify whether any emotion is behind this statement: 'The restaurant will open at 6:00 AM and closes at 10:00 PM.'",
+        "answer": "There is no emotion expressed in this statement, as it is a neutral and factual announcement."
+    },
+    {
+        "task_id": "sc-05",
+        "question": "Find out the emotion behind this comment on a video: 'I'm so happy that I was able to watch your concert, oppa!'",
+        "answer": "The emotion behind this comment is enthusiasm and admiration, with a strong affectionate tone, as indicated by the use of \"oppa\" (a Korean term of endearment)."
+    },
+    {
+        "task_id": "ts-01",
+        "question": "Summarize the story of The Three Little Pigs.",
+        "answer": "A wolf attempts to eat three little pigs who build houses of straw, sticks, and bricks, respectively, and the pigs outsmart the wolf by fleeing to the brick house, where the wolf is unable to enter."
+    },
+    {
+        "task_id": "ts-02",
+        "question": "Summarize the plot of the Harry Potter series.",
+        "answer": "Orphaned boy Harry Potter discovers he's a wizard, attends Hogwarts School of Witchcraft and Wizardry, and embarks on a seven-year journey to defeat the dark wizard Lord Voldemort, who murdered his parents and seeks to dominate the wizarding world."
+    },
+    {
+        "task_id": "ts-03",
+        "question": "Summarize the life of Adolf Hitler.",
+        "answer": "Adolf Hitler was born on April 20, 1889, in Braunau am Inn, Austria, rose to power as the leader of the Nazi Party, became the dictator of Germany from 1934 to 1945, and died on April 30, 1945, in Berlin, Germany, by taking his own life as Allied forces closed in on the city."
+    },
+    {
+        "task_id": "ts-04",
+        "question": "Give the context of Romans 6:23 from the Bible.",
+        "answer": "Romans 6:23 states that \"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.\""
+    },
+    {
+        "task_id": "ts-05",
+        "question": "Summarize the events and impact of World War II.",
+        "answer": "World War II was a global conflict that lasted from 1939 to 1945, resulting in the deaths of an estimated 50-80 million people, the destruction of entire cities, and the emergence of the United States and Soviet Union as superpowers, with the war ultimately leading to the formation of the United Nations and the European Union."
+    },
+    {
+        "task_id": "ner-q1",
+        "question": "Extract all the names of organizations and geographic locations from the following text: \"In October 2025, Lisa Su announced that AMD would be expanding its research and development centers in Hyderabad, India, and Austin, Texas.\"",
+        "answer": "The names of organizations mentioned are AMD, and the geographic locations mentioned are Hyderabad, India, and Austin, Texas."
+    },
+    {
+        "task_id": "ner-q2",
+        "question": "Identify all the monetary values and specific dates mentioned in this sentence: \"The artificial intelligence startup secured a $12.5 million Series A round on February 14th, 2026, aiming to hit \u20ac25 million in ARR by Q4 2027.\"",
+        "answer": "The monetary values mentioned are $12.5 million and \u20ac25 million, and the specific dates mentioned are February 14th, 2026, and Q4 2027."
+    },
+    {
+        "task_id": "ner-q3",
+        "question": "List all the people and their respective job titles from this log: \"Dr. Elena Rostova, the Chief Medical Officer at Horizon Health, worked closely with Lead Systems Engineer James Park to deploy the software.\"",
+        "answer": "The people mentioned in the log are: \n1. Dr. Elena Rostova, Chief Medical Officer\n2. James Park, Lead Systems Engineer"
+    },
+    {
+        "task_id": "ner-q4",
+        "question": "Extract any programming languages mentioned in the following commit message: \"The data engineering team migrated the legacy data-processing scripts from Python and R over to Rust to significantly improve execution speed.\"",
+        "answer": "The programming languages mentioned in the commit message are Python, R, and Rust."
+    },
+    {
+        "task_id": "ner-q5",
+        "question": "Identify the vehicle models and manufacturing companies in the following text: \"Ford unveiled the new Mustang Mach-E last week, aiming to directly compete with Tesla's Model Y and the Hyundai loniq 5.\"",
+        "answer": "The vehicle models mentioned are the Ford Mustang Mach-E, Tesla Model Y, and Hyundai loniq 5, all of which are electric vehicles."
+    },
+    {
+        "task_id": "debug-q1",
+        "question": "Identify the bug in this Python function designed to check if a string is a palindrome. How do you fix it?\n\ndef is_palindrome(s):\n    return s==s[::-2]",
+        "answer": "def is_palindrome(s):\n    return s == s[::-1]"
+    },
+    {
+        "task_id": "debug-q2",
+        "question": "Why does this JavaScript code return undefined instead of the expected object, and how can it be fixed?\n\nfunction getUser() {\n    return\n    {\n        name: \"Alice\"\n    };\n}",
+        "answer": "The code returns `undefined` because the `return` statement is used to exit the function early, but in this case, it is not followed by an expression, causing the function to implicitly return `undefined`."
+    },
+    {
+        "task_id": "debug-q3",
+        "question": "Find the logical error in this Python function meant to find the maximum number in a list of integers.\n\ndef find_max(numbers):\n    max_val = 0\n    for num in numbers:\n        if num > max_val:\n            max_val = num\n    return max_val",
+        "answer": "def find_max(numbers):\n    if not numbers:\n        return None\n    max_val = numbers[0]\n    for num in numbers[1:]:\n        if num > max_val:\n            max_val = num\n    return max_val"
+    },
+    {
+        "task_id": "debug-q4",
+        "question": "What is the syntax error in this SQL query intended to find departments with over 10,000 in total sales?\n\nSELECT department, SUM(sales)\nFROM employee_sales\nWHERE SUM(sales) > 10000\nGROUP BY department;",
+        "answer": "The syntax error is in the WHERE clause, where the condition `SUM(sales) > 10000` should be applied to the grouped rows, not the entire table, so it should be `WHERE department IN (SELECT department FROM employee_sales GROUP BY department HAVING SUM(sales) > 10000)`."
+    },
+    {
+        "task_id": "debug-q5",
+        "question": "Spot the out-of-bounds error in this C++ loop meant to print all elements of the array.\n\nint arr[5]={10,20,30,40,50}\nfor (int i = 1; i <= 5; i++) {\n    cout << arr[i] << endl;\n}",
+        "answer": "The out-of-bounds error is in the loop condition `i <= 5`, since array indices in C++ start at 0, making the valid indices 0, 1, 2, 3, and 4."
+    },
+    {
+        "task_id": "logic-q1",
+        "question": "A robot is at the bottom of a 30-foot vertical shaft. Each day, its battery allows it to climb up 3 feet, but at night while powered down, it slips back 2 feet. On what day will the robot successfully escape the shaft?",
+        "answer": "The robot will successfully escape the shaft on the 11th day, as it will climb 3 feet on the 10th day, reach 30 feet on the 11th day, and remain there."
+    },
+    {
+        "task_id": "logic-q2",
+        "question": "If all Zetas are Betas, and some Betas are Gammas, is it absolutely logically certain that some Zetas are Gammas? Answer yes or no, and briefly explain why.",
+        "answer": "Yes, it is absolutely logically certain that some Zetas are Gammas, because if all Zetas are Betas and some Betas are Gammas, then every Beta must be a Gamma, and therefore every Zeta must also be a Gamma."
+    },
+    {
+        "task_id": "logic-q3",
+        "question": "Five microservices are initialized in sequence. Service A starts before Service B but after Service C. Service D starts before Service C. Service E starts after Service B. What is the exact boot order from first to last?",
+        "answer": "The exact boot order is: Service D, Service C, Service A, Service B, Service E."
+    },
+    {
+        "task_id": "logic-q4",
+        "question": "You have two unlabelled sand timers: one measures exactly 7 minutes, and the other measures exactly 11 minutes. How can you use only these two timers to measure exactly 15 minutes of elapsed time?",
+        "answer": "Start the 7-minute timer, then start the 11-minute timer, and immediately stop both timers after 8 minutes."
+    },
+    {
+        "task_id": "logic-q5",
+        "question": "In an isolated network, an automated firewall rule is configured to block IP addresses that, and only those that, do not block themselves. Does the automated firewall rule block its own IP address?",
+        "answer": "The automated firewall rule does not block its own IP address, as it is designed to block IP addresses that do not block themselves, implying that the firewall rule's own IP address is exempt from the rule."
+    },
+    {
+        "task_id": "codegen-q1",
+        "question": "Write a Python function flatten_list(nested_list) that takes a list which may contain other lists of varying depths, and returns a completely flat list of all elements.",
+        "answer": "def flatten_list(nested_list):\n    flat = []\n    for item in nested_list:\n        if isinstance(item, list):\n            flat.extend(flatten_list(item))\n        else:\n            flat.append(item)\n    return flat"
+    },
+    {
+        "task_id": "codegen-q2",
+        "question": "Write a standard SQL query to find the second-highest salary from an Employees table containing the columns id, name, and salary.",
+        "answer": "You can use the following SQL query to find the second-highest salary:\n\n```sql\nSELECT DISTINCT salary\nFROM Employees\nORDER BY salary DESC\nLIMIT 1 OFFSET 1;\n```\n\nThis query orders the salaries in descending order, skips the first row (which is the highest salary), and then returns the next row, which is the second-highest salary."
+    },
+    {
+        "task_id": "codegen-q3",
+        "question": "Write a single-line bash command using find that recursively locates and deletes all log files older than 30 days within the /var/log/containers directory.",
+        "answer": "find /var/log/containers -type f -mtime +30 -exec rm {} \\;"
+    },
+    {
+        "task_id": "codegen-q4",
+        "question": "Write a functional React component in JavaScript that renders a button and a text span. When the button is clicked, a counter displayed in the text span should increment by 1, starting from 0.",
+        "answer": "Here is a highly accurate, direct, and concise answer:\n```javascript\nimport React, { useState } from 'react';\n\nconst Counter = () => {\n  const [count, setCount] = useState(0);\n\n  const handleClick = () => setCount(count + 1);\n\n  return (\n    <div>\n      <button onClick={handleClick}>Increment</button>\n      <span>Count: {count}</span>\n    </div>\n  );\n};\n\nexport default Counter;"
+    },
+    {
+        "task_id": "codegen-q5",
+        "question": "Write a Python function extract_ips(text) that uses the re module to find and return all valid IPv4 addresses (e.g., 192.168.1.1) from a provided string.",
+        "answer": "import re\n\ndef extract_ips(text):\n    pattern = r'\\b(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\b'\n    return re.findall(pattern, text)"
+    }
+]

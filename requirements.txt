@@ -1,0 +1,4 @@
+llama-cpp-python
+requests
+python-dotenv
+flask

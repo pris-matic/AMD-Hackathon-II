@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  agent:
+    image: ryqaz/agent:latest
+    volumes:
+      - ./output:/output
+    environment:
+      FIREWORKS_API_KEY: ${FIREWORKS_API_KEY:-}
+      FIREWORKS_BASE_URL: ${FIREWORKS_BASE_URL:-}
+      ALLOWED_MODELS: ${ALLOWED_MODELS:-}
